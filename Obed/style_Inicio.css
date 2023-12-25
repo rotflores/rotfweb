@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Titillium+Web:wght@200&display=swap');
+
+body {
+    background-color: #000;
+    color: #E4F1FF;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    margin: 0px;
+}
+
+.subtitle {
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+    font-size: 15px;
+}
+
+.upstair {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0%;
+}
